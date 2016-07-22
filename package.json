@@ -1,0 +1,24 @@
+{
+  "name": "leveros-server",
+  "version": "1.0.0",
+  "description": "![Lever OS](doc/images/leveros-logo-full-white-bg-v0.2.png \"Lever OS\") ======================================================================",
+  "main": "server.js",
+  "dependencies": {
+    "faker": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccali14/leveros-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccali14/leveros-server/issues"
+  },
+  "homepage": "https://github.com/ccali14/leveros-server#readme"
+}
